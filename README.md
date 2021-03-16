@@ -1,1 +1,1 @@
-# AppleMusic
+# AppleMusic Rules
